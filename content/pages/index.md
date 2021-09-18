@@ -256,6 +256,12 @@ sections:
         new_window: false
         no_follow: false
     type: section_cta
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
