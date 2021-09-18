@@ -168,7 +168,15 @@ sections:
 
           - dolor sit amet
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
   - section_id: reviews
     type: section_reviews
     background: white
